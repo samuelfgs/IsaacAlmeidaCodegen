@@ -1,0 +1,85 @@
+{
+  "projects": [
+    {
+      "projectId": "gmeH6XgPaBtkt51HunAo4g",
+      "version": "18.16.0",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "gmeH6XgPaBtkt51HunAo4g",
+          "type": "projectCss",
+          "checksum": "1c02168c6b23256606111fdfdbb63549"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "e264G7p1MKeDtAJX7Rdw6L",
+      "version": "latest",
+      "dependencies": {
+        "gmeH6XgPaBtkt51HunAo4g": "18.16.0"
+      },
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "unqNag6zJnwj",
+          "checksum": "3bcf93302803c922b2714bd69064d281"
+        },
+        {
+          "assetId": "e264G7p1MKeDtAJX7Rdw6L",
+          "type": "projectCss",
+          "checksum": "999498adddcbbf0c9236c51c3cb5ef4e"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "9Wrn3HIUqawK",
+          "checksum": "6eee2e3ea8c54412ed463eae70f59d74"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "9Wrn3HIUqawK",
+          "checksum": "6eee2e3ea8c54412ed463eae70f59d74"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "_kRQvPdJvyqE",
+          "checksum": "7e2ba1d31ac7f2ab195f68cb134505ce"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "_kRQvPdJvyqE",
+          "checksum": "7e2ba1d31ac7f2ab195f68cb134505ce"
+        },
+        {
+          "type": "icon",
+          "assetId": "HaVFhUvZzm7i",
+          "checksum": "9f22ded89217b04753a986d4e64382ad"
+        },
+        {
+          "type": "icon",
+          "assetId": "BKJxagmPG8ge",
+          "checksum": "5231002d7efcb92bc9419253bce95714"
+        },
+        {
+          "type": "icon",
+          "assetId": "bjh9SKS7Nr9R",
+          "checksum": "6ff4b0fee2a55b5756102b28d017b788"
+        },
+        {
+          "type": "icon",
+          "assetId": "QcTfFurh961l",
+          "checksum": "18ba2fdffb634f5ab8b29b6aa413d2fb"
+        },
+        {
+          "type": "image",
+          "assetId": "y7inKPV_MFNT",
+          "checksum": "ee51dc720052b6861945b3f49e3181ac"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.337"
+}
